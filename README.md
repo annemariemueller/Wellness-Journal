@@ -1,1 +1,2 @@
 # Wellness-Journal
+The wellness journal is a virtual planner to track calories, sleep, and water intake to promote a healthy lifestyle for the user. First, the user is prompted to enter their target numbers of calories to eat, hours of sleep, and glasses of water to drink for the day. Then they use the buttons to enter the numbers they actually achieved that day. The program gives a response of what improvements can be made in the future. The user can also enter a word to describe their day.
